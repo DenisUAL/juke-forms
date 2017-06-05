@@ -34,4 +34,8 @@
 
 ## Junior Phase
 
-Nothing here yet!
+### Data Types & Structures
+
+- [Part 1 (lecture)](https://youtu.be/XiImYHiidE8)
+- [Part 1 (lecture continued)](https://youtu.be/DmGcVnzPqVc)
+
