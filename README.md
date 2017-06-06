@@ -38,4 +38,5 @@
 
 - [Part 1 (lecture)](https://youtu.be/XiImYHiidE8)
 - [Part 1 (lecture continued)](https://youtu.be/DmGcVnzPqVc)
-
+- [Part 2 (lecture)](https://youtu.be/ddRiYAbNXxg)
+- [Part 2 (lecture continued)](https://youtu.be/gdR29UTZEDA)
