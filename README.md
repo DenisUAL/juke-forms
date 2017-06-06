@@ -38,5 +38,6 @@
 
 - [Part 1 (lecture)](https://youtu.be/XiImYHiidE8)
 - [Part 1 (lecture continued)](https://youtu.be/DmGcVnzPqVc)
+- [Q&A Data Structures Part I](https://youtu.be/ZgPRmlpXM_A)
 - [Part 2 (lecture)](https://youtu.be/ddRiYAbNXxg)
 - [Part 2 (lecture continued)](https://youtu.be/gdR29UTZEDA)
