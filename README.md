@@ -45,3 +45,10 @@
 ### Selector.js
 
 - [Intro to the DOM](https://youtu.be/pDUveuhfy_0)
+- [Review](https://www.youtube.com/watch?v=WhVEZPsOP4I)
+
+### Sorting / Algorithms
+
+- [Big O, algorithms, sorting](https://youtu.be/hssSh7IR9S0)
+- [Review]()
+
