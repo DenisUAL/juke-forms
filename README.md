@@ -57,4 +57,4 @@
 - [Live Review Part II](https://youtu.be/zJzw95cnAlw)
 
 ## Processes and Node
-- [Processses Lecture](https://youtu.be/CCvikpkInTc)
+- [Processes Lecture](https://youtu.be/CCvikpkInTc)
