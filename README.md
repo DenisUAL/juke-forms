@@ -2,6 +2,7 @@
 
 ## Helpful Resources/Links
 
+- [Great git tutorial! Please do it! Maybe twice](http://learngitbranching.js.org/)
 - [Effective git and github usage for pairing on workshops](https://gist.github.com/omriBernstein/4fd2c21be8416d5e5a69aabc6fa94b82)
 - [Additional Video outlining Github workflow when pairing on Workshops](http://www.youtube.com/watch?v=VJHyW8OmSaI)
 - [Fullstack Student / Alumni Blogs List](https://github.com/FullstackAcademy/student-blogs)
@@ -50,9 +51,18 @@
 ### Sorting / Algorithms
 
 - [Big O, algorithms, sorting](https://youtu.be/hssSh7IR9S0)
-- [Review]()
+- [Review](https://www.youtube.com/watch?v=Dz0NkaBp-FM)
 
 ### Game of Life
 - [Live Review Part I](https://www.youtube.com/watch?v=5h7tGLGs5pc)
 - [Live Review Part II](https://youtu.be/zJzw95cnAlw)
 
+### Node Shell
+Coming soon!
+
+### Twitter.js
+- [Lecture Part 1](https://youtu.be/4PRSbKycNfQ)
+- [Lecture Part 2](https://youtu.be/1JTGw7iu4tM)
+
+### SQL
+- [Lecture](https://youtu.be/8hruVNj_U58)
