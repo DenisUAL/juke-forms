@@ -63,3 +63,6 @@ Coming soon!
 ### Twitter.js
 - [Lecture Part 1](https://youtu.be/4PRSbKycNfQ)
 - [Lecture Part 2](https://youtu.be/1JTGw7iu4tM)
+
+### SQL
+- [Lecture](https://youtu.be/8hruVNj_U58)
