@@ -66,3 +66,4 @@ Coming soon!
 
 ### SQL
 - [Lecture](https://youtu.be/8hruVNj_U58)
+- [Live Q&A](https://youtu.be/G0KJMSkJVSw)
