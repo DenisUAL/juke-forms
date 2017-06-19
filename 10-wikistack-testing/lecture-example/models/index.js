@@ -16,8 +16,8 @@ var Student = db.define('student', {
     },
     campus: {
         type: Sequelize.ENUM(
-            'Fullstack Academy',
-            'Grace Hopper Academy',
+            'Fullstack Academy NYC',
+            'Grace Hopper Program',
             'Fullstack Academy Chicago'
         )
     }
