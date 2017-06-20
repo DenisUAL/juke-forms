@@ -68,6 +68,9 @@ Coming soon!
 - [Lecture](https://youtu.be/8hruVNj_U58)
 - [Live Q&A](https://youtu.be/G0KJMSkJVSw)
 
+### Wikistack Testing
+- [Introduction to Backend Testing](https://youtu.be/Edm_7Id2U3s)
+
 ---
 
 ## CS Saturday
