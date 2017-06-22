@@ -81,3 +81,11 @@ Coming soon!
 - [Review: Parts I and II](https://youtu.be/VwtX7nQIZQk)
 - [Lecture: Indexing](https://youtu.be/H5xqXpFkecI)
 - [Review: Part III](https://youtu.be/uYRkO7NYmjA)
+
+---
+
+## Fellow Reviews
+
+### Express and Sequelize
+- [Express and Sequelize](https://github.com/sbakkila/ExpressSequelizeReview)
+Checkout the Express-Ending-Point branch for just the Express solution.
