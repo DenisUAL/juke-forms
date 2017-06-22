@@ -71,6 +71,10 @@ Coming soon!
 ### Wikistack Testing
 - [Introduction to Backend Testing](https://youtu.be/Edm_7Id2U3s)
 
+### Trip Planner
+#### Part 1 (Static UI)
+- [Lecture](https://youtu.be/6aEf8sB77Ws)
+
 ---
 
 ## CS Saturday
