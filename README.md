@@ -9,7 +9,21 @@
 - [Gist: Debugging](https://gist.github.com/glebec/8a0d06e54a4b3f95a33392f948e97b6a)
 - [Gist: Some code wars problems, categorized](https://gist.github.com/joedotjs/7614f84264bf20e49d39)
 
+#### Checkpoints
+
+##### Express (Self-Checkpoint)
+
+* [Video Review](https://www.youtube.com/watch?v=op6AcWbwwbE)
+
+##### Express-Sequelize 
+
+* [Gist: Sequelize associations](https://gist.github.com/joedotjs/4a57c5e2037fa15a25fe52131a21ae91)
+* [Live Demo: Sequelize validations, class & instance methods, promises](https://youtu.be/WU2IFoMUkp4)
+* [Video Review (slightly outdated)](https://youtu.be/MGk2tineSxc)
+
 ---
+
+
 
 ## Foundations
 
