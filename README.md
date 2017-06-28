@@ -15,7 +15,7 @@
 
 * [Video Review](https://www.youtube.com/watch?v=op6AcWbwwbE)
 
-##### Express-Sequelize 
+##### Express-Sequelize
 
 * [Gist: Sequelize associations](https://gist.github.com/joedotjs/4a57c5e2037fa15a25fe52131a21ae91)
 * [Live Demo: Sequelize validations, class & instance methods, promises](https://youtu.be/WU2IFoMUkp4)
@@ -85,9 +85,19 @@ Coming soon!
 ### Wikistack Testing
 - [Introduction to Backend Testing](https://youtu.be/Edm_7Id2U3s)
 
+### Shoestring
+- [Lecture - HTML and CSS](https://youtu.be/uJquv-JCvB0)
+- [Live review](https://youtu.be/6IycnzfOIFk)
+
 ### Trip Planner
 #### Part 1 (Static UI)
 - [Lecture](https://youtu.be/6aEf8sB77Ws)
+
+#### Part 2 (Live)
+- Coming soon!
+
+#### Part 3 (Persistence)
+- [Lecture - Ajax](https://youtu.be/IdwzNCU2X5g)
 
 ---
 
