@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Event Emitter</title>
+	</head>
+	<body>
+		<script> 
+			var EventEmitter = function(){
+				this.subscribers = {};
+			}
+			EventEmitter.prototype.on = function(name, fn){
+				if(!this.subscribers[name]){
+					this.subscribers[name] = [];
+				}
+				this.subscribers[name].push(fn);
+			}	
+			EventEmitter.prototype.emit = function(name){
+				if(!this.subscribers[name]) return;
+				var args = [].slice.call(arguments, 1); 
+				this.subscribers[name].forEach((listernFn) => {
+					listernFn.apply(args);
+				})
+			}
+		</script>
+	</body>
+</html>
+
