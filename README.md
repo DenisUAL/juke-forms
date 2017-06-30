@@ -98,6 +98,11 @@ Coming soon!
 
 #### Part 3 (Persistence)
 - [Lecture - Ajax](https://youtu.be/IdwzNCU2X5g)
+- [Review Video](https://www.youtube.com/watch?v=DeFD0EuG4dY)
+
+### Juke 
+- [Intro to React Lecture](https://youtu.be/4aLJllHVMQs)
+
 
 ---
 
