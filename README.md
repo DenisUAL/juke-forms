@@ -104,6 +104,7 @@ Coming soon!
 
 #### Part 1 - React
 - [Intro to React Lecture](https://youtu.be/4aLJllHVMQs)
+- [Review Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmBu2TQGOvQIoF6akSyzPn3)
 
 #### Part 2 - React Router
 - [Lecture](https://youtu.be/a4Ix8jh1K9M)
