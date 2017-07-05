@@ -101,7 +101,12 @@ Coming soon!
 - [Review Video](https://www.youtube.com/watch?v=DeFD0EuG4dY)
 
 ### Juke 
+
+#### Part 1 - React
 - [Intro to React Lecture](https://youtu.be/4aLJllHVMQs)
+
+#### Part 2 - React Router
+- [Lecture](https://youtu.be/a4Ix8jh1K9M)
 
 
 ---
